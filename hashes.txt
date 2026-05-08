@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ghum
+
+This log tracks the cryptographic history and versioning for the song **Ghum** (ghum).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:18:55.895529 | `v1` | `5e0cdff9bd2932935cdb32614ff103b1b3f4d51f3025f9cfe24755361d47001c` | `657ea42e9981127fae121008b95b14267a69d805c4d3adfd0d68c77977de8ef9` | `2026-05-08_ghum-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
